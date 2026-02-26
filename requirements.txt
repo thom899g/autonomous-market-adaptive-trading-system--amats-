@@ -1,0 +1,13 @@
+# Core dependencies for AMATS
+pandas==2.2.0
+numpy==1.26.0
+scikit-learn==1.4.0
+ccxt==4.2.0
+firebase-admin==6.2.0
+schedule==1.2.0
+python-dotenv==1.0.0
+ta==0.10.2
+matplotlib==3.8.0
+seaborn==0.13.0
+requests==2.31.0
+tqdm==4.66.0
